@@ -1,0 +1,29 @@
+==Penting==
+-font ada 2 : 1. Lobster 1.4 untuk menampilkan menu dan arah panah game
+	      2. Coolvetica Rg untuk highscore, hitungan, dan game over
+-warna font untuk menu putih, setelah di pilih berubah warna jadi hitam
+-export file fbx berada pada layer 1,2 3 dan 4
+-untuk username, backgroundnya seperti gambar nomer 4 atau
+lebih baik pas digame diblur jga gpp (untuk background), jadi ambil gambar 5
+
+==Design Game==
+- judul game = Looking Glass
+- menu 3d kalau keberatan 2d
+- background menu real blur
+- background play game putih ke 0.8
+- main menu = 
+	1.Play 
+	2.Highscore
+	3.Shop
+	4.Quit
+
+==Teknis Game==
+- saat pertama Play game ada tutorial
+- permainan dimulai dengan mengikuti arahan setelah waktu menghafal habis
+- game selesai apabila salah perintah satu kali
+- online highscore
+- highscore didapatkan tiap jumlah swing yang berhasil
+- coin didapatkan dari 1 perintah 1 waktu
+- (bonus) 20 kali perintah yang berhasil terdapat animasi air ditumpahkan
+  selama 10 detik
+- perintah dilakukan secara random
