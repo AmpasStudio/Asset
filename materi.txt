@@ -1,4 +1,5 @@
 ==Penting==
+ampas
 -font ada 2 : 1. Lobster 1.4 untuk menampilkan menu dan arah panah game
 	      2. Coolvetica Rg untuk highscore, hitungan, dan game over
 -warna font untuk menu putih, setelah di pilih berubah warna jadi hitam
